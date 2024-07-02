@@ -9,4 +9,5 @@ Required methods:
 - listPosts() - returns the whole set of posts sorted alphabetically by titles
 - getPost(id) - returns the post object with given id
 - clearPosts() - deletes all the stored posts
-  Optionally: use Map for storing the posts.
+
+! Optionally: use Map for storing the posts.
